@@ -10,7 +10,8 @@
 
 ## 💻 O Evento (Trilha Explorer)
 
-O evento em si é criar uma cápsula do tempo.
+O evento em si é criar uma cápsula do tempo e que seja responsivo.
+
 
 Feito apenas HTML e CSS.
 
