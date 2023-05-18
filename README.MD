@@ -1,6 +1,6 @@
 # 💻 #NLW - Spacetime
 
-<img src="./assets/Captura de Tela 2023-05-17 às 20.14.48.png" alt="Imagem do projeto"/>
+<img src="./assets/imagem-do-projeto.png" alt="Imagem do projeto" />
 
 <div align="center">
 
