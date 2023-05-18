@@ -28,7 +28,7 @@ Este é o <a href="https://www.figma.com/file/S3GjDZOeJ2sZd7JyDp5Slm/C%C3%A1psul
 <table>
   <tr>
     <td>
-     <img src="./img/avatar-gleidsonqueiroz.png" alt="Avatar do programador" width="100px"/>
+     <img src="./assets/avatar-gleidsonqueiroz.png" alt="Avatar gleidson queiroz" width="100px"/>
     </td>
     <td>
       Feito por Gleidson Queiroz.</a> 🙋🏼‍♂️
